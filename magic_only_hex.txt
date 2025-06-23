@@ -1,0 +1,2 @@
+0	hex	526172211A0700	RAR archive data
+0	hex	526172211A070100	RAR archive data, v5

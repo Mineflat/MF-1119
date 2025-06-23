@@ -1,0 +1,7 @@
+# offset  type    pattern           description
+0          hex     89504E470D0A1A0A   PNG image data
+0          hex     FFD8FF             JPEG image data
+0          string  GIF87a             GIF image data (GIF87a)
+0          string  GIF89a             GIF image data (GIF89a)
+0          string  %PDF-              PDF document
+0          hex     504B0304           ZIP archive data
